@@ -3,8 +3,8 @@ requires = ["hatchling", "hatch-requirements-txt"]
 build-backend = "hatchling.build"
 
 [project]
-name = "dbh-bots-wrapper"
-version = "1.0.1"
+name = "danbot-hosting"
+version = "1.0.3"
 authors = [
   { name="Sliden101", email="sliden@danbot.host" },
 ]
@@ -25,5 +25,5 @@ packages = ["/dbh-bots-wrapper"]
 files = ["requirements.txt"]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/DanBot-Hosting/dbh-bots-wrapper"
+Issues = "https://github.com/DanBot-Hosting/dbh-bots-wrapper/issues"
