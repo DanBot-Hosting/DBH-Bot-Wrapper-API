@@ -1,15 +1,15 @@
-# dbh-bots-wrapper - DanBot Hosting Bots API Wrapper
+# danbot-hosting - DanBot Hosting Bots API Wrapper
 
 ## Overview
 
-The `dbh-bots-wrapper` is a Python module designed to simplify interactions with the DanBot Hosting API for adding Discord bots. It provides a `bot` class with methods for adding bots, retrieving bot information, and obtaining information of all bots.
+The `danbot-hosting` is a Python module designed to simplify interactions with the DanBot Hosting API for adding Discord bots. It provides a `bot` class with methods for adding bots, retrieving bot information, and obtaining information of all bots.
 
 ## Installation
 
-To use `dbh-bots-wrapper`, you must install it first. You can do this using the following command:
+To use `danbot-hosting`, you must install it first. You can do this using the following command:
 
 ```bash
-pip install dbh-bots-wrapper
+pip install danbot-hosting
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ pip install dbh-bots-wrapper
 ### Importing the Module
 
 ```python
-from dbh-bots-wrapper import bot
+from danbot-hosting import bot
 ```
 
 ### Initializing the Bot
@@ -83,7 +83,7 @@ print(bots_list)
 ## Example
 
 ```python
-from dbhwrapper import bot
+from danbot-hosting import bot
 
 # Initialize the bot
 my_bot = bot(
