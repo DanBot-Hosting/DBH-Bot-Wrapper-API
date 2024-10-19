@@ -1,3 +1,9 @@
+# ⚠️ Project No Longer Maintained
+
+**Important:** This project is no longer maintained. Please be aware that there will be no further updates or support.
+
+# 
+
 # danbot-hosting - DanBot Hosting Bots API Wrapper
 
 ## Overview
@@ -121,9 +127,9 @@ print("User's Bots:", bots_list)
 Replace the placeholder values with your actual Discord bot and user information.
 
 
-# DanBot
+# DanBot Hosting:
 
 > [!NOTE]
-> Found a bug? Open a [GitHub Issue](https://github.com/DanBot-Hosting/DBH-BOT-API/issues/new). Found a vulnerability? Open a ticket in our [Discord Server](https://discord.gg/dbh) (Soon enough on a support website!)
+> Found a bug? Open a [GitHub Issue](https://github.com/DanBot-Hosting/DBH-BOT-API/issues/new). Found a vulnerability? Open a ticket in our [Discord Server](https://discord.gg/dbh).
 
 > Made with ❤️ by [DanBot Hosting](https://danbot.host).
